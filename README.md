@@ -1,4 +1,7 @@
-# test coverage for  [velocity-animate (v1.5.0)](http://velocityjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-velocity-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-velocity-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-velocity-animate.svg)](https://travis-ci.org/npmtest/node-npmtest-velocity-animate)
+# npmtest-velocity-animate
+
+#### basic test coverage for  [velocity-animate (v1.5.0)](http://velocityjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-velocity-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-velocity-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-velocity-animate.svg)](https://travis-ci.org/npmtest/node-npmtest-velocity-animate)
+
 #### Accelerated JavaScript animation.
 
 [![NPM](https://nodei.co/npm/velocity-animate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/velocity-animate)
